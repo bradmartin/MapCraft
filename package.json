@@ -1,0 +1,10 @@
+{
+  "name": "MapCraft",
+  "description": "Mapping utilities for dotnet core.",
+  "authors": "Brad Martin",
+  "version": "1.0.0",
+  "scripts": {
+    "build-nuget-release":
+      "cd src && dotnet build --configuration Release && nuget pack mapcraft.nuspec"
+  }
+}
