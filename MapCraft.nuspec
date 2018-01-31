@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<package >
+<package>
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
+    <id>nStudio.MapCraft</id>
+    <version>1.0.0</version>
+    <title>MapCraft</title>
+    <authors>Brad Martin</authors>
+    <owners>Brad Martin</owners>
     <projectUrl>https://github.com/bradmartin/MapCraft</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <description>Set of mapping related utilities.</description>
+    <releaseNotes>Initial Release</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>bradmartin mapcraft nstudio</tags>
   </metadata>
